@@ -104,10 +104,9 @@ library-api/
 ├── schemas/
 │   ├── __init__.py
 │   └── books.py            # Pydantic схемы для валидации
-├── routers/
-│   ├── __init__.py
-│   └── books.py            # Маршруты для книг
-└── 
+└── routers/
+    ├── __init__.py
+    └── books.py            # Маршруты для книг
 ```
 
 
